@@ -28,25 +28,9 @@ Nikon Wi..., Atomos ..., Solid Gear, Canal Toy..., Vince Ca...
 🛠️ Tools & Technologies Used
 Power BI for dashboard creation
 
-Amazon Sales Dataset (mock data)
+Amazon Sales Dataset
 
 Data Transformation: Power Query
-
-📂 Repository Contents
-DASHBOARD.png – Snapshot of the Amazon Sales Analysis Dashboard
-
-data/ – Sample dataset used for visualization
-
-report.pbix – Power BI report file
-
-🚀 How to Use
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/amazon-sales-dashboard.git
-Open the .pbix file in Power BI Desktop.
 
 Explore the interactive dashboard.
 
